@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Documentos judiciales de prueba locales
+Avance_3/datos/sentencia.txt
+Avance_3/datos/sentencia.pdf
